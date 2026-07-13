@@ -1,5 +1,5 @@
 # CNE
-Chroma Null Engine是一个SDL3+Box2D+ImGUI的开发框架
+Chroma Null Engine是一个2D游戏开发框架
 
 # 依赖库
 >SDL3
